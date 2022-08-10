@@ -18,5 +18,5 @@ serde = "1.0"
 serde_json = "1.0"
 serde_derive = "1.0"
 chrono = { version = "0.4", features = ["serde"] }
-mopa = "0.2.2"
+mopa-maintained = "0.2.3"
 typetag = "0.2"
